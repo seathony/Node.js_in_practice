@@ -1,5 +1,5 @@
 var Writable = require('stream').Writable;
-var until = require('util');
+var util = require('util');
 
 module.exports = CountStream;
 
